@@ -1,0 +1,47 @@
+id,title,ensemble/soloist,instruments,year,duration
+2,"Nasrin Opera",,"2 female voices, 2 male voices, flute, clarinet, violin, violoncello, piano, percussion, electronic, video, live camera",2022,60
+3,"languagemachine opera","Pittsburgh Opera Company","2 sopranos, tenor, baritone, flute, clarinet, bassoon, 2 violins, viola, violoncello, double bass, piano, percussion, electronic sounds (fixed media),",2019,40
+4,"Vasna II","CMU Philharmonic Orchestra",3233/4331/[3perc]/hrp/pno/str,2018,9
+5,Vasna,"Brno Philharmonic Orchestra",2222/2231/[3perc]/hrp/str,2015,8
+6,"She is there","Sydeboob duo","Voice, flute",2023,8
+7,ttttt,"Ekmeles ensemble","vocal ensemble",2023,7
+8,"the unnoticed dance no.2","klangforum Wien","flute, clarinet, violin, violoncello, piano, bass drum",2023,7
+9,"the unnoticed dance no.1","Dal Niente","flute, clarinet, violin, violoncello, snare drum",2023,7
+10,"Will I Be Remembered?","Da Capo","Flute, Clarinet, Violin, Violoncello, Piano, and Percussion (fixed media)",2022,6
+11,"a miniature opera:censorship","JACK quartet","string quartet",2022,22
+12,"Miniature Sounds No.4",TAK,"voice, flute, clarinet, violin, typist, electronic, interactive sounds, Max/MSP",2020,7
+13,"Miniature Sounds No.3",NAT28,"flute, clarinet, violin, violoncello, piano, percussion",2019,8
+14,"Be New Too",Kamraton,"Flute, Clarinet, Violin, violoncello, Soprano, and Electronic sounds",2018,10
+15,"String Quartet No.2","Argus quartet","string quartet",2018,7
+16,"Miniature Sounds No.1",NAT28,"flute, oboe, clarinet, horn, violin, viola, violoncello, piano, harp, percussion",2017,6
+17,"Hanging time",,"Soprano, Piano, Flute, Clarinet, Trumpet, Horn, Trombone, 2 percussions, Violin, Viola, and Cello",2017,10
+18,"Miniature Triology",,"Clarinet, Bassoon, and Violoncello",2017,5
+19,"X5; X to the power of five",NAT28,"Oboe, Clarinet, Violin, Viola, and Piano",2017,6
+20,"X4; X to the power of four","Sarah Steranka","flute quartet",2017,7
+21,"Vasna trio",,"Flute, Oboe, and Piano",2015,7
+22,"Ashem Vohu, the main motto",,"Alto, Flute, Clarinet, Horn, Violin, Violoncello, and Piano",2015,2
+23,"Gatha Song 1",,"Mezzo-soprano, Flute, Clarinet, Horn, Violin, Violoncello, and Piano",2015,2
+24,Asha,,"Flute, Clarinet, Bassoon, Horn, 2 Violins, Violoncello, Piano, Santoor, duduk",2014,5
+25,"String Quartet No.1","Phoenix quartet","string quartet",2014,6
+26,"Third Diagram",,"Flute, Violoncello, and Piano",2014,3
+27,estinto,,"Timpani, Triangle, Wood blocks, Xylophone, Marimba",2014,2
+28,"Quintet No.1",,"Flute, Oboe, Clarinet, Bassoon, and Horn",2013,7
+29,ajhaman,,"Clarinet and Violin",2013,5
+30,Havan,,"Soprano and Piano",2013,3
+31,Mentalities,,"Soprano and Piano",2013,2
+32,"Miniature Sounds No.2",NAT28,"flute, oboe, clarinet, horn, violin, viola, violoncello, piano, harp, percussion",2017,8
+33,"Soundstallation 1","Ramin Akhavijou","Ultrasonic sensors, Arduino, Max/MSP, video",2023,5
+34,"Soundstallation 2","Ramin Akhavijou","Water Detection sensor, Arduino, Max/MSP, solo clarinet piece, projected video, painting",2023,4
+35,"Soundstallation 3","Ramin Akhavijou","Three computers, four displays, two microcontrollers, ultrasonic sensors, Max/MSP, audio file, video, program-generated random words",2023,4
+36,"Soundstallation 4","Ramin Akhavijou","Diverse objects, conductive tape, paper board, custom-designed circuit, 3V vibration motors, conductive glove, coin motors, cylinder motors",2023,9
+37,"Soundstallation 5","Ramin Akhavijou","Touch sensors, acoustic instrument, picture frame, touch shield, Arduino, capacitive sensors, conductive copper tape, brass mortar, Max/MSP",2023,7
+38,"Soundstallation 1","Ramin Akhavijou","Painting, conductive copper tape, touch capacitive sensor, Arduino, designed canvas circuit, Max/MSP",2023,6
+39,THE,"Ramin Akhavijou","Kamancheh, electronic, and electroacoustic",2022,40
+40,"A World from a Distance","Ramin Akhavijou","electronic, electroacoustic",2021,35
+41,Silence,,OpenMusic,2023,0
+42,probable,"David Danel","any instruments",2020,200
+43,"1x for solo clarinet","Thomas Piercy",clarinet,2019,6
+45,"1x for solo piano","Yumi Suehiro",piano,2019,7
+46,"Variation on GILAKI theme solo piano",,piano,2013,7
+47,Achim,,piano,2014,4
+48,"Translucent Transmigration",,harp,2015,5
